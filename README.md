@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full stack web development**
 
-- 👨‍💻 All of my projects are available at [https://tambeaditya101.github.io](https://tambeaditya101.github.io)
+- 👨‍💻 All of my projects are available at [https://tambeaditya101.github.io/](https://tambeaditya101.github.io/)
 
 - 💬 Ask me about **Frontend, Javascript, Fitness, Plants care, House-keeping  & Love**
 
