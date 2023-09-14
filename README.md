@@ -12,7 +12,6 @@
 - 💬 Ask me about **Frontend, Javascript, Fitness, Plants care, House-keeping  & Love**
 
 - 📫 How to reach me **tambeaditya101@gmail.com**
-<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tambeaditya101" alt="tambeaditya101" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
