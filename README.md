@@ -1,17 +1,50 @@
 <h1 align="center">Hi 👋, I'm Aditya Kishor Tambe</h1>
-<h3 align="center">A passionate learner</h3>
+<h3 align="center">A Passionate Full Stack Developer from Mumbai, India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tambeaditya101&label=Profile%20views&color=0e75b6&style=flat" alt="tambeaditya101" /> </p>
+---
 
-- 🔭 I’m currently working on **myself super deeply**
+## 🚀 About Me
+I'm a passionate **Full Stack Developer** specializing in the **PERN Stack** (PostgreSQL, Express, React, Node.js).  
+With 1.3+ years of experience, I focus on building scalable, real-world applications with clean architecture and smooth UI/UX.
 
-- 🌱 I’m currently learning **Full stack web development**
+- 💼 Software Developer at *Installco Wify Technology Pvt Ltd*  
+- 🌱 Learning **Next.js**, **TypeScript**, and **DevOps (Docker + GitHub Actions)**  
+- 💬 Ask me about: **Frontend, JavaScript, Fitness, Plants & Animals**  
+- 📫 Reach me at **tambeaditya101@gmail.com**  
+- 🧑‍💻 Portfolio: [tambeaditya101.github.io](https://tambeaditya101.github.io/)
 
-- 👨‍💻 All of my projects are available at [https://tambeaditya101.github.io/](https://tambeaditya101.github.io/)
+---
 
-- 💬 Ask me about **Frontend, Javascript, Fitness, Plants care, House-keeping  & Love**
+## 💻 My Projects
 
-- 📫 How to reach me **tambeaditya101@gmail.com**
+- 🔗 [URL Shortener](https://github.com/tambeaditya101/url-shortener-adi)
+- 🛒 [NextLearn Store](https://github.com/tambeaditya101/next-ecom2.0)
+
+---
+
+## 🧠 Tech Stack
+**Frontend:** React, Next.js, Redux, Tailwind, JavaScript  
+**Backend:** Node.js, Express.js, PostgreSQL, MongoDB  
+**Testing:** Jest (BDD approach)  
+**Tools:** Git, Postman, Vercel, Netlify, Docker  
+
+---
+
+## 🏆 Achievements
+- Built 10+ real-world projects hosted online  
+- Active learner passionate about clean, tested, and scalable code  
+
+---
+
+## 🌱 Currently Exploring
+TypeScript | System Design | DevOps | AI for Web Development
+
+---
+
+> "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
