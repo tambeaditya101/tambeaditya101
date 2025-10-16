@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **Full Stack Developer** specializing in the **PERN Stack** (PostgreSQL, Express, React, Node.js).  
+I'm a passionate **Full Stack Developer** specializing in the **PERN Stack** (PostgreSQL, Express, React, Node.js) & **MERN Stack** (MongoDb, Express, React, Node.js).  
 With 1.3+ years of experience, I focus on building scalable, real-world applications with clean architecture and smooth UI/UX.
 
 - 💼 Software Developer at *Installco Wify Technology Pvt Ltd*  
@@ -23,7 +23,7 @@ With 1.3+ years of experience, I focus on building scalable, real-world applicat
 ---
 
 ## 🧠 Tech Stack
-**Frontend:** React, Next.js, Redux, Tailwind, JavaScript  
+**Frontend:** React, Next.js, Redux, Tailwind, JavaScript, Typescript  
 **Backend:** Node.js, Express.js, PostgreSQL, MongoDB  
 **Testing:** Jest (BDD approach)  
 **Tools:** Git, Postman, Vercel, Netlify, Docker  
@@ -61,8 +61,6 @@ TypeScript | System Design | DevOps | AI for Web Development
 <p align="left" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tambeaditya101&" alt="tambeaditya101" /></p>
 <p align="left " >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tambeaditya101&show_icons=true&locale=en" alt="tambeaditya101" /></p>
 <p align="left" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tambeaditya101&show_icons=true&locale=en&layout=compact" alt="tambeaditya101" /></p>
-
-
 
 
 
