@@ -17,16 +17,17 @@ With 1.3+ years of experience, I focus on building scalable, real-world applicat
 
 ## 💻 My Projects
 
+- 💼 [Hospital Management System – Multi-Tenant SaaS Platform](https://github.com/tambeaditya101/hms-project)
 - 🔗 [URL Shortener](https://github.com/tambeaditya101/url-shortener-adi)
 - 🛒 [NextLearn Store](https://github.com/tambeaditya101/next-ecom2.0)
 
 ---
 
 ## 🧠 Tech Stack
-**Frontend:** React, Next.js, Redux, Tailwind, JavaScript, Typescript  
+**Frontend:** React, Next.js, Redux Toolkit, Tailwind, MUI, JavaScript, Typescript  
 **Backend:** Node.js, Express.js, PostgreSQL, MongoDB  
 **Testing:** Jest (BDD approach)  
-**Tools:** Git, Postman, Vercel, Netlify, Docker  
+**Tools:** Git, Postman, Vercel, Netlify, Render, Railway, Docker  
 
 ---
 
